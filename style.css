@@ -1,0 +1,51 @@
+.img_header{
+    background-size: cover;
+      background-position: center center;
+      background-image: url(img/fondo.jpg);
+      width: 100%;
+      height: 233px;
+  
+  }
+  .abs-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* padding-left: 40px; */
+  }
+  .contacto{
+        box-shadow: 0px 0px 5px 0px #0c0c0b;
+    border-radius: 30px;
+}
+  }
+  
+.form {
+    width: 450px;
+    border: solid #337ab757 1px;
+    padding: 40px;
+    background: #f1f1f312;
+}
+  .titulo{
+       /* background: #201d1dc2; */
+       /* color: #fff; */
+       text-align: center;
+       border-bottom: solid #ffc800 2px;
+       /* margin-bottom: 30px; */
+       /* margin-top: 90px; */
+  }
+  h1,h2,h3{
+    margin-top: 11px;
+      margin-bottom: -4px;
+  }
+  .text_p{
+      text-align: justify;
+      font-size: 13pt;
+      margin-top: 24px;
+  }
+
+.footer {
+   
+    height: 50px;
+    background-color: #1d1616;
+    color: rgb(185 176 176);
+    text-align: center;
+  }
